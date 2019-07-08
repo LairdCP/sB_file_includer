@@ -19,6 +19,7 @@
 #include <QFileInfo>
 #include <QDropEvent>
 #include <QMimeData>
+#include <QRegularExpression>
 
 /******************************************************************************/
 // Local Functions or Private Members
